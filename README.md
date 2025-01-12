@@ -4,13 +4,8 @@
   
 
 ### <div align="center">I'm Roman, a junior devops 👨‍💻 working remotely since 2019 🚀</div>  
-  
-
-- 🔭 I’m currently searhing for a job
-  
 
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
