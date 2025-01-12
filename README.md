@@ -3,16 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Roman, a freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center">I'm Roman, a junior devops 👨‍💻 working remotely since 2019 🚀</div>  
   
 
-- 🔭 I’m currently searhing for a job  
-  
-
-- 🌱 I’m currently learning Docker  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- 🔭 I’m currently searhing for a job
   
 
 <br/>  
@@ -68,9 +62,6 @@
 <div align="center">
 <a href="https://github.com/AuthFailed" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/authfailed" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/auth_failed" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
