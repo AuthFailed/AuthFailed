@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Roman from Tyumen, Russia</h2>
+<h2 align="left">Hi 👋! My name is Roman</h2>
 
 ###
 
